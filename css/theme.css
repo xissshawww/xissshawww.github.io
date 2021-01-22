@@ -1,12 +1,17 @@
 body {
   color: #89890f;
   font-size: calc(110% + 0.1vw);
+  font-weight: 500;
   line-height: 1.6;
-  /*background-color: #fff;*/
   background-color: #e3eafd;
-  /*font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell,
-    "Helvetica Neue", sans-serif;*/
-  font-family: "Source Code Pro",monospace;
+  /* font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell,
+    "Helvetica Neue", sans-serif; */
+  font-family: "Source Code Pro", monospace;
+}
+
+@font-face {
+  font-family: "Source Code Pro";
+  src: local("Source Code Pro"), url("/source/fonts/Source_Code_Pro/SourceCodePro-Regular.ttf");
 }
 
 .wrap {
@@ -42,12 +47,12 @@ h4,
 h5,
 h6 {
   letter-spacing: -.002em;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.2;
 }
 
 ::selection {
-  color: #fff;
+  color: #e3eafd;
   background-color: #3e5800;
 }
 
@@ -90,11 +95,11 @@ table th {
   padding: .4em .8em;
 }
 table thead {
-  background-color: #fff;
+  background-color: #e3eafd;
 }
 table tbody tr {
   border-top: 0;
-  background-color: #fff;
+  background-color: #e3eafd;
 }
 table tbody tr:nth-child(2n) {
   background-color: #f6f8fa;
@@ -133,7 +138,7 @@ header .branding {
 }
 
 .logo-image:hover {
-  animation: sway 1.4s ease-in-out both;
+  /* animation: sway 1.4s ease-in-out both; */
 }
 
 @keyframes sway {
@@ -160,16 +165,19 @@ header .branding {
 }
 
 .logo-image {
-  height: 5em;
+  height: 100%;
+  width: 100%;
+  margin-top: 2em;
 }
 
 header .nav-list-item {
   display: inline-block;
-  padding: 1em .8em;
+  padding: 0.5em 0.4em;
+  font-weight: 550;
 }
 header .nav-list-item a {
   font-size: .9em;
-  line-height: 1.4;
+  line-height: 1;
 }
 
 .home.post-list {
@@ -178,7 +186,7 @@ header .nav-list-item a {
 }
 .home.post-list .post-list-item {
   padding: 1em .4em;
-  border-bottom: #89890f solid 0.2rem;
+  border-bottom: #89890f solid 0.15rem;
 }
 
 .home.post-list .post-content h2:before,
@@ -193,7 +201,8 @@ header .nav-list-item a {
 }
 
 .home.post-list .read-more {
-  color: #3e5800;
+  /* color: #3e5800; */
+  color: transparent;
 }
 
 .archive .post-item {
@@ -224,8 +233,9 @@ header .nav-list-item a {
 }
 
 .post-block .post-title {
-  margin: .65em 0;
+  /* margin: .65em 0; */
   font-size: 1.5em;
+  font-weight: 500;
 }
 .post-block .post-info {
   color: #89890f;
@@ -239,7 +249,7 @@ header .nav-list-item a {
   padding: .2em .3em;
   border-radius: .3em;
   font-size: .7em;
-  color: #fff;
+  color: #e3eafd;
   background-color: #e36b6b;
 }
 
@@ -272,7 +282,7 @@ header .nav-list-item a {
 
 .post-content h1,
 .post-block .post-title {
-  margin-top: 2em;
+  margin-top: 1em;
   font-size: 2.2em;
 }
 
@@ -353,7 +363,7 @@ header .nav-list-item a {
   width: 20px;
   height: 20px;
   border-radius: 100%;
-  color: #fff;
+  color: #e3eafd;
   font-size: 14px;
   line-height: 20px;
   font-weight: 600;
@@ -376,19 +386,30 @@ header .nav-list-item a {
 }
 
 .paginator {
-  margin: 2em 0;
-  display: flex;
-  justify-content: space-around;
+  position: relative;
+  border-bottom: 0;
+  width: 100%;
+  /* margin: 2em 0; */
+  margin: 0;
+  /* display: flex; */
+  /* justify-content: space-around; */
 }
 
-.paginator .prev,
+/* .paginator:after {
+  background-color: currentColor;
+  content: "";
+  height: 100%;
+  left: -webkit-calc(50% - 1px);
+  left: calc(50% - 1px);
+  position: absolute;
+  top: 0;
+  width: 2px;
+} */
+
+.paginator .prev ,
 .paginator .next {
   position: relative;
-  /* box-shadow: 0 .3em #3e5800; */
   display: inline-block;
-  /* margin: 0 .2em; */
-  /* padding: .3em 1.5em; */
-  /* border-radius: 5px; */
   color: #89890f;
   background-color: transparent;
   font-weight: 500;
@@ -397,12 +418,12 @@ header .nav-list-item a {
   width: 50%;
   font-size: larger;
 }
+
 .paginator .prev:hover,
 .paginator .next:hover {
-  /* box-shadow: 0 .2em #3e5800; */
-  /* top: .1em; */
   background-color: #89890f;
-  color: #fff;
+  color: #e3eafd;
+  text-decoration: none;
 }
 
 .ds-thread,
@@ -428,16 +449,16 @@ main.container {
 }
 
 footer .copyright {
-  font-size: .8em;
+  font-size: 1em;
   margin: 4em 4em;
   border-top: 1px solid #eee;
-  text-align: center;
+  /* text-align: center; */
 }
 footer .copyright p,
 footer .copyright a {
   padding: 1em 0;
   color: #89890f;
-  font-weight: 300;
+  font-weight: 500;
 }
 footer .copyright a:hover {
   color: #89890f;
