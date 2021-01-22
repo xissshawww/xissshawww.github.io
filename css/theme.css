@@ -178,6 +178,7 @@ header .nav-list-item a {
 }
 .home.post-list .post-list-item {
   padding: 1em .4em;
+  border-bottom: #89890f solid 0.22rem;
 }
 
 .home.post-list .post-content h2:before,
