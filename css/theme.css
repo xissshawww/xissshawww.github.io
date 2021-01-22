@@ -178,7 +178,7 @@ header .nav-list-item a {
 }
 .home.post-list .post-list-item {
   padding: 1em .4em;
-  border-bottom: #89890f solid 0.22rem;
+  border-bottom: #89890f solid 0.2rem;
 }
 
 .home.post-list .post-content h2:before,
@@ -393,7 +393,7 @@ header .nav-list-item a {
   background-color: transparent;
   font-weight: 500;
   padding: 1.8em;
-  border: #89890f solid 0.2rem;
+  border: #89890f solid 0.15rem;
   width: 50%;
   font-size: larger;
 }
