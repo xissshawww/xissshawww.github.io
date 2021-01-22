@@ -309,7 +309,9 @@ header .nav-list-item a {
   padding-left: 1em;
   padding-right: 1em;
   border: 0.5em solid transparent;
-  border-radius: 1em;
+  /* border-radius: 1em; */
+  border-top:none;
+  border-bottom:none;
   border-left-color: #89890f;
   border-left-width: 0.3em;
   font-style: italic;
