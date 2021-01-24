@@ -471,7 +471,7 @@ main.container {
 footer .copyright {
   font-size: 1em;
   margin: 4em 4em;
-  border-top: 1px solid #eee;
+  border-top: 1px solid #e3eafd;
   /* text-align: center; */
 }
 footer .copyright p,
@@ -480,14 +480,22 @@ footer .copyright a {
   color: #89890f;
   font-weight: 500;
 }
+
+footer .copyright a {
+  text-decoration: underline;
+  font-weight: 600;
+}
+
 footer .copyright a:hover {
   color: #89890f;
+  background-color: transparent;
+  
 }
 
 code,
 pre {
   font-size: .8em;
-  background-color: #f8f8f8;
+  background-color: #e3eafd;
   font-family: "SF Mono", "Monaco", "Inconsolata", "Fira Mono", "Droid Sans Mono", "Source Code Pro",
     monospace;
 }
@@ -497,7 +505,7 @@ pre {
   margin: 1em 0;
   border-radius: .02em;
   line-height: 1.1em;
-  background-color: #f8f8f8;
+  background-color: #e3eafd;
   overflow-x: auto;
 }
 .highlight table,
