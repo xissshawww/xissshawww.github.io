@@ -225,10 +225,13 @@ header .nav-list-item a:hover {
 .archive .post-title-link {
   color: #3e5800;
   padding-left: 1em;
+  text-decoration: underline;
 }
 .archive .post-title-link:hover {
   border-bottom: 0;
-  color: #3e5800;
+  color: #e3eafd;
+  background-color: #3e5800;
+  text-decoration: none;
 }
 .archive .post-info {
   width: 6em;
