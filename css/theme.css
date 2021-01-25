@@ -11,7 +11,7 @@ body {
 
 @font-face {
   font-family: "Source Code Pro";
-  src: local("Source Code Pro"), url("/source/fonts/Source_Code_Pro/SourceCodePro-Regular.ttf");
+  src: local("Source Code Pro"), url("/source/fonts/Source_Code_Pro");
 }
 
 .wrap {
@@ -174,9 +174,10 @@ header .branding {
 }
 
 header .nav-list-item {
+  font-weight: bold;
   display: inline-block;
   padding: 0.5em 0.4em;
-  font-weight: 550;
+  transform: scale(1,0.9);
 }
 header .nav-list-item a {
   font-size: .9em;
@@ -196,6 +197,7 @@ header .nav-list-item a:hover {
 .home.post-list .post-list-item {
   padding: 1em .4em;
   border-bottom: #89890f solid 0.15rem;
+  transform: scale(1,0.9);
 }
 
 .home.post-list .post-content h2:before,
@@ -228,7 +230,8 @@ header .nav-list-item a:hover {
   margin-left: 1em;
   /* text-decoration: underline; */
   border-bottom: 2px solid #89890f;
-  font-style: italic;
+  /* font-style: italic; */
+  transform: scale(1,0.9);
 }
 .archive .post-title-link:hover {
   color: #e3eafd;
@@ -239,6 +242,7 @@ header .nav-list-item a:hover {
   width: 6em;
   font-size: .9em;
   color: #89890f;
+  transform: scale(1,0.9);
 }
 
 .post {
@@ -731,4 +735,10 @@ pre .emphasis {
 }
 pre .strong {
   font-weight: 600;
+}
+
+.archive-year {
+  font-style: italic;
+  font-size: 2rem;
+  font-weight: bolder;
 }
