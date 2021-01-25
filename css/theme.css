@@ -54,8 +54,8 @@ h6 {
 }
 
 ::selection {
-  color: #e3eafd;
-  background-color: #3e5800;
+  color: #f66;
+  /* background-color: #3e5800; */
 }
 
 .nav-list {
@@ -66,13 +66,14 @@ h6 {
 
 .nav-list-link {
   padding-bottom: .15em;
-  border-bottom: .2em solid transparent;
+  border-bottom: 2px solid #89890f;
 }
 
 .nav-list-link:hover {
-  border-bottom: .2em solid #3e5800;
+  border-bottom: 2px solid #89890f;
   padding-bottom: .15em;
   text-decoration: none;
+  border-bottom: none;
   /* transition: 150ms ease-in-out; */
 }
 
@@ -185,7 +186,7 @@ header .nav-list-item a:hover {
   font-size: .9em;
   line-height: 1;
   text-decoration: none;
-  background-color: #3e5800;
+  /* background-color: #89890f; */
 }
 
 .home.post-list {
@@ -223,14 +224,15 @@ header .nav-list-item a:hover {
   font-size: 1rem;
 }
 .archive .post-title-link {
-  color: #3e5800;
-  padding-left: 1em;
-  text-decoration: underline;
+  color: #89890f;
+  margin-left: 1em;
+  /* text-decoration: underline; */
+  border-bottom: 2px solid #89890f;
+  font-style: italic;
 }
 .archive .post-title-link:hover {
-  border-bottom: 0;
   color: #e3eafd;
-  background-color: #3e5800;
+  background-color: #89890f;
   text-decoration: none;
 }
 .archive .post-info {
@@ -324,8 +326,10 @@ header .nav-list-item a:hover {
 
 .post-content a {
   /* color: #3e5800; */
-  text-decoration: underline;
+  /* text-decoration: underline; */
   font-weight: 600;
+  border-bottom: 2px solid #89890f;
+  font-style: italic;
 }
 
 .post-content a:hover{
@@ -476,20 +480,22 @@ footer .copyright {
 }
 footer .copyright p,
 footer .copyright a {
-  padding: 1em 0;
   color: #89890f;
   font-weight: 500;
+  /* border-bottom: 2px solid #89890f; */
+  font-style: italic;
 }
 
 footer .copyright a {
-  text-decoration: underline;
+  /* text-decoration: underline; */
   font-weight: 600;
 }
 
 footer .copyright a:hover {
   color: #89890f;
   background-color: transparent;
-  
+  border-bottom: 2px solid #89890f;
+  text-decoration: none;
 }
 
 code,
