@@ -40,7 +40,7 @@ a:active {
 a:hover {
   text-decoration: underline;
   background-color: #f66;
-  color: #e3eafd;
+  color: #eee;
 }
 
 h1,
@@ -99,11 +99,11 @@ table th {
   padding: .4em .8em;
 }
 table thead {
-  background-color: #e3eafd;
+  background-color: #eee;
 }
 table tbody tr {
   border-top: 0;
-  background-color: #e3eafd;
+  background-color: #eee;
 }
 table tbody tr:nth-child(2n) {
   background-color: #f6f8fa;
@@ -236,7 +236,7 @@ header .nav-list-item a:hover {
   transform: scale(1,0.9);
 }
 .archive .post-title-link:hover {
-  color: #e3eafd;
+  color: #eee;
   background-color: #89890f;
   text-decoration: none;
 }
@@ -268,7 +268,7 @@ header .nav-list-item a:hover {
   padding: .2em .3em;
   border-radius: .3em;
   font-size: .7em;
-  color: #e3eafd;
+  color: #eee;
   background-color: #e36b6b;
 }
 
@@ -393,7 +393,7 @@ header .nav-list-item a:hover {
   width: 20px;
   height: 20px;
   border-radius: 100%;
-  color: #e3eafd;
+  color: #eee;
   font-size: 14px;
   line-height: 20px;
   font-weight: 600;
@@ -452,7 +452,7 @@ header .nav-list-item a:hover {
 .paginator .prev:hover,
 .paginator .next:hover {
   background-color: #89890f;
-  color: #e3eafd;
+  color: #eee;
   text-decoration: none;
 }
 
@@ -481,7 +481,7 @@ main.container {
 footer .copyright {
   font-size: 1em;
   margin: 4em 4em;
-  border-top: 1px solid #e3eafd;
+  border-top: 1px solid #eee;
   /* text-align: center; */
 }
 footer .copyright p,
@@ -507,7 +507,7 @@ footer .copyright a:hover {
 code,
 pre {
   font-size: .8em;
-  background-color: #e3eafd;
+  background-color: #eee;
   font-family: "SF Mono", "Monaco", "Inconsolata", "Fira Mono", "Droid Sans Mono", "Source Code Pro",
     monospace;
 }
@@ -517,7 +517,7 @@ pre {
   margin: 1em 0;
   border-radius: .02em;
   line-height: 1.1em;
-  background-color: #e3eafd;
+  background-color: #eee;
   overflow-x: auto;
 }
 .highlight table,
