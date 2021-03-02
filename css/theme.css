@@ -1,5 +1,7 @@
+/* 橄榄绿：89890f */
+
 body {
-  color: #89890f;
+  color: black;
   font-size: calc(110% + 0.1vw);
   font-weight: 500;
   line-height: 1.6;
@@ -30,7 +32,7 @@ p {
 
 a,
 a:active {
-  color: #89890f;
+  color: black;
   text-decoration: none;
 }
 a:hover {
@@ -51,8 +53,8 @@ h6 {
 }
 
 ::selection {
-  color: #fff;
-  background-color: #f66;
+  color: peachpuff;
+  background-color: black;
 }
 
 .nav-list {
@@ -63,11 +65,11 @@ h6 {
 
 .nav-list-link {
   padding-bottom: .15em;
-  border-bottom: 2px solid #89890f;
+  border-bottom: 2px solid black;
 }
 
 .nav-list-link:hover {
-  border-bottom: 2px solid #89890f;
+  border-bottom: 2px solid black;
   padding-bottom: .15em;
   text-decoration: none;
   border-bottom: none;
@@ -154,7 +156,7 @@ header .nav-list-item a:hover {
   font-size: .9em;
   line-height: 1;
   text-decoration: none;
-  /* background-color: #89890f; */
+  /* background-color: black; */
 }
 
 .home.post-list {
@@ -163,7 +165,7 @@ header .nav-list-item a:hover {
 }
 .home.post-list .post-list-item {
   padding: 1em .4em;
-  border-bottom: #89890f solid 0.15rem;
+  border-bottom: black solid 0.15rem;
   transform: scale(1,0.9);
 }
 
@@ -192,20 +194,20 @@ header .nav-list-item a:hover {
   font-size: 1rem;
 }
 .archive .post-title-link {
-  color: #89890f;
+  color: black;
   margin-left: 1em;
-  border-bottom: 2px solid #89890f;
+  border-bottom: 2px solid black;
   transform: scale(1,0.9);
 }
 .archive .post-title-link:hover {
   color: #eee;
-  background-color: #89890f;
+  background-color: black;
   text-decoration: none;
 }
 .archive .post-info {
   width: 6em;
   font-size: .9em;
-  color: #89890f;
+  color: black;
   transform: scale(1,0.9);
 }
 
@@ -219,7 +221,7 @@ header .nav-list-item a:hover {
   font-weight: bold;
 }
 .post-block .post-info {
-  color: #89890f;
+  color: black;
   margin: 1.2em 0;
 }
 .post-block .post-info span {
@@ -294,7 +296,7 @@ header .nav-list-item a:hover {
 
 .post-content a {
   font-weight: 600;
-  border-bottom: 2px solid #89890f;
+  border-bottom: 2px solid black;
   font-style: italic;
 }
 
@@ -310,10 +312,10 @@ header .nav-list-item a:hover {
   border: 0.5em solid transparent;
   border-top:none;
   border-bottom:none;
-  border-left-color: #89890f;
+  border-left-color: black;
   border-left-width: 0.3em;
   font-style: italic;
-  font-size: larger;
+  /* font-size: larger; */
 }
 
 .post-content li {
@@ -329,7 +331,7 @@ header .nav-list-item a:hover {
   display: block;
   max-width: 100%;
   margin: 1em auto;
-  border-radius: 10px;
+  border-radius: 5px;
 }
 .post-content .tip {
   position: relative;
@@ -398,18 +400,18 @@ header .nav-list-item a:hover {
 .paginator .next {
   position: relative;
   display: inline-block;
-  color: #89890f;
+  color: black;
   background-color: transparent;
   font-weight: 500;
   padding: 1.8em;
-  border: #89890f solid 0.15rem;
+  border: black solid 0.15rem;
   width: 50%;
   font-size: larger;
 }
 
 .paginator .prev:hover,
 .paginator .next:hover {
-  background-color: #89890f;
+  background-color: black;
   color: #eee;
   text-decoration: none;
 }
@@ -444,7 +446,7 @@ footer .copyright {
 }
 footer .copyright p,
 footer .copyright a {
-  color: #89890f;
+  color: black;
   font-weight: 500;
   font-style: italic;
 }
@@ -454,9 +456,9 @@ footer .copyright a {
 }
 
 footer .copyright a:hover {
-  color: #89890f;
+  color: black;
   background-color: transparent;
-  border-bottom: 2px solid #89890f;
+  border-bottom: 2px solid black;
   text-decoration: none;
 }
 
@@ -634,7 +636,7 @@ pre .quote {
 pre .keyword,
 pre .selector-tag,
 pre .subst {
-  color: #89890f;
+  color: black;
   font-weight: 600;
 }
 pre .number,

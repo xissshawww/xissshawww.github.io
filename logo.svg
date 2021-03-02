@@ -9,9 +9,9 @@
  </g>
  <g>
   <title>Layer 1</title>
-  <text stroke="#000" xml:space="preserve" text-anchor="start" font-family="Source Code Pro, monospace" font-size="24" id="svg_2" y="30" x="0" stroke-width="0" fill="#89890f">FreeFormSuite</text>
-  <text stroke="#000" xml:space="preserve" text-anchor="start" font-family="Source Code Pro, monospace" font-size="24" id="svg_4" y="70" x="0" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#89890f">| 自由組曲 Ⓐ</text>
-  <text stroke="#000" xml:space="preserve" text-anchor="start" font-family="Source Code Pro, monospace" font-size="24" id="svg_6" y="110" x="0" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#89890f">| 量子輓歌 |</text>
-  <text stroke="#000" xml:space="preserve" text-anchor="start" font-family="Source Code Pro, monospace" font-size="24" id="svg_8" y="130" x="0" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#89890f"> —————————</text>
+  <text stroke="#000" xml:space="preserve" text-anchor="start" font-family="Source Code Pro, monospace" font-size="24" id="svg_2" y="30" x="0" stroke-width="0" fill="black">FreeFormSuite</text>
+  <text stroke="#000" xml:space="preserve" text-anchor="start" font-family="Source Code Pro, monospace" font-size="24" id="svg_4" y="70" x="0" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="black">| 自由組曲 Ⓐ</text>
+  <text stroke="#000" xml:space="preserve" text-anchor="start" font-family="Source Code Pro, monospace" font-size="24" id="svg_6" y="110" x="0" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="black">| 量子輓歌 |</text>
+  <text stroke="#000" xml:space="preserve" text-anchor="start" font-family="Source Code Pro, monospace" font-size="24" id="svg_8" y="130" x="0" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="black"> —————————</text>
  </g>
 </svg>
