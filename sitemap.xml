@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://freeformsuite.guru/2021/03/ffs-speak/</loc>
+    
+    <lastmod>2021-03-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://freeformsuite.guru/2020/12/nyx-blog-without-organs/</loc>
+    
+    <lastmod>2021-03-12</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://freeformsuite.guru/blogroll.html</loc>
     
     <lastmod>2021-03-12</lastmod>
@@ -59,13 +73,6 @@
   
   <url>
     <loc>http://freeformsuite.guru/2021/01/nyx-hello-from-the-wired/</loc>
-    
-    <lastmod>2021-02-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://freeformsuite.guru/2020/12/nyx-blog-without-organs/</loc>
     
     <lastmod>2021-02-03</lastmod>
     
@@ -509,6 +516,13 @@
   
   <url>
     <loc>http://freeformsuite.guru/tags/accelerationism/</loc>
+    <lastmod>2021-03-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://freeformsuite.guru/tags/meta/</loc>
     <lastmod>2021-03-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
