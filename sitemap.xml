@@ -93,6 +93,13 @@
   </url>
   
   <url>
+    <loc>http://freeformsuite.guru/2020/08/genre-is-obsolete/</loc>
+    
+    <lastmod>2021-01-25</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://freeformsuite.guru/2020/12/hex-editor-why-do-we-hack/</loc>
     
     <lastmod>2021-01-25</lastmod>
@@ -257,6 +264,27 @@
   
   <url>
     <loc>http://freeformsuite.guru/tags/%E6%97%A5%E6%9C%AC%E9%9F%B3%E4%B9%90/</loc>
+    <lastmod>2021-03-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://freeformsuite.guru/tags/noise/</loc>
+    <lastmod>2021-03-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://freeformsuite.guru/tags/ray-brassier/</loc>
+    <lastmod>2021-03-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://freeformsuite.guru/tags/TLASILA/</loc>
     <lastmod>2021-03-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
