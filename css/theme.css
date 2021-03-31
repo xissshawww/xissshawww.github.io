@@ -333,6 +333,7 @@ header .nav-list-item a:hover {
   margin: 1em auto;
   border-radius: 5px;
 }
+
 .post-content .tip {
   position: relative;
   margin: 2em 0;
@@ -703,4 +704,11 @@ pre .strong {
   font-style: italic;
   font-size: 2rem;
   font-weight: bolder;
+}
+
+strong {
+  font-weight: bolder;
+  color: rgb(218, 31, 31);
+  /* padding-bottom: .15em; */
+  /* border-bottom: 2px solid rgb(218, 31, 31); */
 }
