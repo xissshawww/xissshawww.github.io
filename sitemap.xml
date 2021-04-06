@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://freeformsuite.guru/blogroll.html</loc>
+    
+    <lastmod>2021-04-06</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://freeformsuite.guru/about.html</loc>
     
     <lastmod>2021-04-06</lastmod>
@@ -33,13 +40,6 @@
     <loc>http://freeformsuite.guru/2021/01/nyx-hello-from-the-wired/</loc>
     
     <lastmod>2021-04-02</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://freeformsuite.guru/blogroll.html</loc>
-    
-    <lastmod>2021-04-01</lastmod>
     
   </url>
   
@@ -131,13 +131,6 @@
     <loc>http://freeformsuite.guru/2021/02/cyberia-typora-theme/</loc>
     
     <lastmod>2021-02-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://freeformsuite.guru/license.html</loc>
-    
-    <lastmod>2021-01-25</lastmod>
     
   </url>
   
