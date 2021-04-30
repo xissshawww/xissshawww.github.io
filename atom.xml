@@ -441,31 +441,6 @@
   </entry>
   
   <entry>
-    <title>Hex_editor :: 我们为什么要hack？</title>
-    <link href="http://freeformsuite.guru/2020/12/hex-editor-why-do-we-hack/"/>
-    <id>http://freeformsuite.guru/2020/12/hex-editor-why-do-we-hack/</id>
-    <published>2020-12-28T08:59:48.000Z</published>
-    <updated>2021-04-22T05:50:31.384Z</updated>
-    
-    <content type="html"><![CDATA[<p>原文来自<a href="https://newtotse.com/oldtotse/en/hack/introduction_to_hacking/hack1.html">totse.com</a> 译者：晚霞</p><p>我们为什么要做黑客？是为了篡改网页，留下某种网络团伙的涂鸦吗？是为了嘲笑那些高薪且低能的系统管理员吗？好吧，对于我自己，以及与我有联系的每个人来说，这两个答案都是否定的。那么，我们为什么要这样做呢？为了寻求知识？也许吧…</p><p>这绝对是一个被过度使用且有些毫无根据的借口。我们在每一个清醒的时刻都在寻求知识和智慧。我们每吸一口气，都会让我们多出3秒钟的学习时间。是的，攻破网络安全无疑是需要学习的。然而，我们不是偶尔也会用和以前一模一样的方法攻破系统吗？那么在这种情况下，我们为什么要这么做呢？如果你已经通过猜测Administrators密码攻破了一个NT盒子，我们为什么还要对不同的NT机器再做一次呢？我们不是已经学会了如何使用IPC$共享来获取重新命名的Administrator账户名吗？我们已经知道如何从前面提到的空连接中获取隐藏的共享。我们从重复的任务中学到了什么？什么也没学到。那为什么呢？我想前几次，是希望你会遇到新的挑战。</p><p>有时我们确实会遇到，但是否经常会把这一切归结为对知识的伟大追求？我个人不知道是否如此。尽管我们不敢承认，但这一切都归结为两个原因。一个是简单的因为它在那里，因为我们可以。另一个原因则稍微有点阴险，我们是偷窥狂。我们想知道另一边有什么有趣的东西。不管我们是企业的偷窥者，还是偷窥者在一些无助的98用户的硬盘里翻找。</p><p>Edmond Hillary曾经说过，当被问及为什么他希望攀登珠峰时，”只是因为它在那里”。我们真的那么肤浅吗？我们做这一切仅仅是因为我们可以吗？难道伟大的求知只是我们为了安抚自己的良心而告诉自己的吗？然而另一方面，我又觉得一定有更多的东西。也许我们真的对信息有一种原始的渴求，而这种渴求并不是我们可以轻易得到的。也许我们有一个隐藏的一面，没有人看到。除了我们的键盘，没有任何东西能感觉到的一面。一个黑暗的吸血鬼，嗜血的一面，渴求信息的活体给予血红蛋白。我们的一部分如此强大，它已经改变了我们的基因状态。我们是否已经进化到超越大多数同龄人？我们是否已经成为一个勇敢的新“虚拟”世界的半神？</p><p>如果你能想象一下，我们把同样的能力和力量带到现实世界中去。我们会看到什么？你正在和一个你不喜欢的人进行烦人的对话，在一瞬间他们就从现场消失了。你可以立即改变你的外表的每一部分，因为是完全不认识的，或出现完全是别人。任何你希望的公司或个人，只要你一挥手，他们就会失去与世界上其他任何人交流的能力。你可以是一个幽灵，并通过任何锁着的门或警报系统的空灵。你可以从家里或办公室里抓取任何你想要的信息，然后穿过锁着的门，不留任何痕迹地回来。</p><p>这些能力不会让我们提升到正常人的地位之上吗？编码不就是神一样的创造行为吗？“我昨天写了一个小的telnet应用程序。”会转化成，“嗯，你知道，它花了我几个小时，但我建立了这个奇特的小机器，让我瞬间传送自己到世界任何地方。”如果这就是写一个telnet应用的意义，那么大家会怎么看待那些写Half Life的家伙呢？</p><p>那么再回到我们在这个虚拟世界中的生活。我们是神吗？不，对我们来说，只有一个真正的神。那就是互联网本身。她所有的协议和操作系统。所有的路由器，交换机，光纤和服务器。她的每一个微小的部分，都是如此传神地连接在一起，创造一个整体。一个完整的存在，我们都居住在其中。这就是我们的上帝。这是我们选择崇拜的对象。那么我们是什么呢，我的黑客朋友们？我们只占所有居住在其中的人的不到1%。我们是牧师吗？不，我会把这个标签贴在系统管理员和服务台骑师的身上，他们指导着这群人。也许我们是恶魔？恶魔不属于黑暗面，属于反上帝吗？如果说互联网是我们的上帝，那么谁是我们的魔鬼？有没有可能有正无反，有阴无阳？我们必须有一个反神，然而是什么？我不知道自己的答案。难道是所有试图控制她的人？所有试图让我们的神屈服于他们贪婪的经济和控制利益的人？这听起来很有道理，我们难道不与这些势力争战吗？难道我们不与政府和企业改变我们勇敢的新世界的想法作战吗？如果我们是上帝的战士，那岂不是让我们成为天使？</p><p>几千年后，我们的后代可能会读到他们的圣经，了解我们如何英勇地与黑暗势力作战，以确保他们生活在一个没有暴政和压迫的世界里。他们会读到少数人是如何无畏地对抗多数人，我们是如何无法理解我们的行为所带来的深远后果。他们会惊叹于我们中的许多人被俘虏和毁灭，甚至不知道我们为什么要战斗。</p><p>所以，也许我们真的不需要抓住一个空灵的“<strong>为什么</strong>”。也许这一切都是命中注定的，也许我们只是注定要做我们所做的事，而这一切都将在漫长的险恶道路上进一步显现。不过话说回来……</p><p>有可能我们都只是缺乏维生素E，不善于社交的人类，有着强烈的破坏欲望，感受着日常生活中得不到的权力和尊重。也许这些都不是，然而这不是由我来决定的。我个人喜欢放下我的铁甲，作为一个复仇的天使站在我的上帝身边。准备与所有想伤害她的人开战。</p>]]></content>
-    
-    
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
-    
-    
-    
-    
-    <category term="hack" scheme="http://freeformsuite.guru/tags/hack/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Japrocksampler :: Part7 LES RALLIZES DENUDÉS</title>
     <link href="http://freeformsuite.guru/2020/12/japrocksampler-les-rallizes-denudes/"/>
     <id>http://freeformsuite.guru/2020/12/japrocksampler-les-rallizes-denudes/</id>
@@ -537,6 +512,35 @@
     
     
     <category term="Distributed" scheme="http://freeformsuite.guru/tags/Distributed/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Sean Tilley :: 一个通向自由网络的快速指南</title>
+    <link href="http://freeformsuite.guru/2020/12/a-quick-guide-to-the-free-network/"/>
+    <id>http://freeformsuite.guru/2020/12/a-quick-guide-to-the-free-network/</id>
+    <published>2020-12-03T13:25:25.000Z</published>
+    <updated>2021-04-22T05:49:14.451Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://medium.com/we-distribute/a-quick-guide-to-the-free-network-c069309f334">原文</a>作者: <a href="https://medium.com/@deadsuperhero?source=post*page-----c069309f334--------------------------------">Sean Tilley</a> 译者：晚霞</p><p>很多刚接触<em>联盟</em>网络的人可能会听到一个随意的说法，就是<em>fediverse</em>，可能会好奇这个词是什么意思。简单的解释可能是它是 “<em>federation</em>“和 “<em>universe</em>“的结合，但实际上它比这更复杂一些。让我们深入了解一下这只“野兽”的本质，以及一些历史。</p><p>目前，在<em>联盟的</em>社交通信领域有两个超级网络，它们运行在不同的协议上。它们分别被称为<strong>The Fediverse</strong>，和<strong>The Federation</strong>。虽然这两个超级网络的功能相似，甚至有相似的目的，但它们各自来源于不同的发展历史，并由此产生了不同的协议栈。这一系列重叠的网络在宏观上可以称为<strong>自由网络</strong>(<strong>The Free Network</strong>)。</p><p><img src="https://freeformsuite.files.wordpress.com/2020/12/1ucqhwil3f0av0awmafmdrw.png?w=589"></p><p>8个不同的平台，每个平台都是相互独立开发的。Hubzilla和Friendica可以与这两个网络对话，因为这些项目是与协议无关(protocol-agnostic)的，可以通过插件进行扩展。</p><h2 id="什么是Fediverse？"><a href="#什么是Fediverse？" class="headerlink" title="什么是Fediverse？"></a>什么是<em>Fediverse</em>？</h2><p><a href="https://fediverse.kranglabs.com/">The Fediverse</a>历来是作为一个微型Blog运行的，并使用<em>OStatus</em>协议让服务器之间相互沟通。它总共拉拢了六个不同的平台。<em>GNU Social</em>、<em>postActiv</em>、<em>Pleroma</em>、<em>Mastodon</em>、<em>Friendica</em>和<em>Hubzilla</em>。</p><p><em>Fediverse</em>最初是由少数几台服务器成立的，这些服务器都运行在<em>StatusNet</em>平台上，可以简单地说是类似于<em>Twitter</em>，但不同的是它有一个特殊的群体交流功能。由于其微型Blog的特性，帖子和评论被认为是同一类型的对象(object)，称为<em>Status</em>。</p><p><em>StatusNet</em>最终被转入<a href="https://gnu.io/social/">GNU Social</a>项目中，并在该项目中继续稳步发展。它已经被分叉到<a href="https://www.postactiv.com/">postActiv</a>项目中，该项目旨在清理系统的后台和用户界面。<a href="https://joinmastodon.org/">Mastodon</a>最初是作为一个<em>Rails-based</em>的<em>Ruby</em>的<em>OStatus实现</em>而开发的，而且也可以连接到这这个网络。最后，<a href="https://gitgud.io/lambadalambda/pleroma">Pleroma</a>项目最初是作为<em>GNU Social</em>的替代前端，但现在有了自己用<em>Elixir</em>编写的后端。</p><h2 id="什么是Federation？"><a href="#什么是Federation？" class="headerlink" title="什么是Federation？"></a>什么是<em>Federation</em>？</h2><p><a href="https://the-federation.info/">The Federation</a>是一个由278个不同的连接着的服务器组成的<em>Interop</em>网络，这些服务器使用<em>Diaspora federation</em>协议进行通信。这是一个与<em>OStatus</em>不同的通信标准，允许四种不同的平台相互通信：<em>Diaspora</em>、<em>Friendica</em>、<em>Hubzilla</em>和<em>Socialhome</em>。</p><p><em>Federation</em>最初是在2010年开始的，服务器只运行<a href="https://diaspora.software/">Diaspora</a>。从结构上看，Diaspora的功能更像<em>Facebook</em>：它支持长篇内容而不是短篇，每个帖子都有一个指定的线程供评论。它还支持私密状态(private statuses)和一个收发direct messages的inbox。</p><p>2012年，<a href="http://friendi.ca/">Friendica</a>项目破天荒地对<em>Diaspora</em>通信协议进行了逆向设计，并从头开始编写了一个PHP实现库，<strong>让Friendica用户和Diaspora用户可以互相对话</strong>。这项工作最终被移植到<a href="https://project.hubzilla.org/page/hubzilla/hubzilla-project">Hubzilla</a>上，这是一个具有云存储(Cloud Storage)和id提供(identity provision)功能的内容管理系统。</p><p>2016年初，<em>Diaspora</em>项目的前志愿者贡献者<a href="https://jasonrobinson.me/">Jason Robinson</a>发布了<a href="https://socialhome.network/">Socialhome</a>。由于该平台利用的是<em>Django</em>而非<em>Rails</em>，Jason不得不从头开始编写<a href="https://github.com/jaywink/federation">自己的federation-Python库</a>。目前，<em>Socialhome</em>在自己的发展史上还处于刚开始，最新的版本是0.4.0。</p><h2 id="未来怎样"><a href="#未来怎样" class="headerlink" title="未来怎样?"></a>未来怎样?</h2><p>目前，该领域的几个项目正在努力采用新的补充协议，目的是在彼此之间建立更好的桥梁。拟议的开发可能最终会是这样的：</p><p><img src="https://freeformsuite.files.wordpress.com/2020/12/13pek-fwq7bnovcnxfvdnuq.png?w=603"></p><p><em>Diaspora</em>目前还没有新协议的计划，只是对自己的协议进行了大幅升级。<em>postActiv</em>打算在未来的版本中采用对<em>Diaspora Federation</em>的支持。<em>Mastodon</em>刚刚发布了对<em>ActivityPub</em>的支持，<em>Pleroma</em>，<em>Socialhome</em>和<em>GNU Social</em>也在考虑采用。<em>Nextcloud</em>也明显进入了<em>Federation</em>领域，<em>Hubzilla</em>和<em>Friendica</em>可能都会作为扩展支持<em>ActivityPub</em>协议。</p><p><img src="https://freeformsuite.files.wordpress.com/2020/12/1rea3ego1v1vc90e1t82uga.png?w=380"></p><p>随着时间的推移，这些截然不同的超级网络很可能会折叠成一个包含所有人的联合超级网络，最大限度地提高九个不同系统之间的互操作性，甚至可能更多。虽然这样的情景还很遥远，但我们完全有可能看到这个空间内所有的主要项目都最终能相互连接。</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="Fediverse" scheme="http://freeformsuite.guru/tags/Fediverse/"/>
+    
+    <category term="free internet" scheme="http://freeformsuite.guru/tags/free-internet/"/>
+    
+    <category term="mastodon" scheme="http://freeformsuite.guru/tags/mastodon/"/>
     
   </entry>
   
