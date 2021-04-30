@@ -42,6 +42,31 @@
   </entry>
   
   <entry>
+    <title>W. B. Yeats :: 二次降临</title>
+    <link href="http://freeformsuite.guru/2021/04/yeats/"/>
+    <id>http://freeformsuite.guru/2021/04/yeats/</id>
+    <published>2021-04-29T16:00:00.000Z</published>
+    <updated>2021-04-30T06:31:44.283Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="gyre1.gif" alt="gyre1.gif"></p><h2 id="The-System-of-W-B-Yeats’s-A-Vision"><a href="#The-System-of-W-B-Yeats’s-A-Vision" class="headerlink" title="The System of W. B. Yeats’s A Vision"></a><a href="https://www.yeatsvision.com/">The System of W. B. Yeats’s <em>A Vision</em></a></h2><h2 id="the-second-coming"><a href="#the-second-coming" class="headerlink" title="the second coming"></a><a href="https://www.yeatsvision.com/SecondNotes.html">the second coming</a></h2><blockquote><p>Turning and turning in the widening gyre<br>The falcon cannot hear the falconer;<br>Things fall apart; the centre cannot hold;<br>Mere anarchy is loosed upon the world,<br>The blood-dimmed tide is loosed, and everywhere<br>The ceremony of innocence is drowned;<br>The best lack all conviction, while the worst<br>Are full of passionate intensity.</p><p>Surely some revelation is at hand;<br>Surely the Second Coming is at hand.<br>The Second Coming! Hardly are those words out<br>When a vast image out of <em>Spiritus Mundi</em><br>Troubles my sight; somewhere in sands of the desert<br>A shape with lion body and the head of a man,<br>A gaze blank and pitiless as the sun,<br>Is moving its slow thighs, while all about it<br>Reel shadows of indignant desert birds.<br>The darkness drops again; but now I know<br>That twenty centuries of stony sleep<br>Were vexed to nightmare by a rocking cradle,<br>And what rough beast, its hour come round at last,<br>Slouches towards Bethlehem to be born?</p><p>Printings: <em>The Dial</em> (Chicago), November 1920; <em>The Nation</em> (London), 6 November 1920; <em>Michael Robartes and the Dancer</em> (Dundrum: Cuala, 1921); <em>Later Poems</em> (London: Macmillan, 1922; 1924; 1926; 1931).</p></blockquote><h2 id="二次降临"><a href="#二次降临" class="headerlink" title="二次降临"></a><a href="https://zhuanlan.zhihu.com/p/98561495">二次降临</a></h2><blockquote><p>进入愈加扩大的循环，<br>鹰已不再听从驯鹰人；<br>一切崩塌，中心不复存在；<br>纯粹的混乱渐渐松绑，侵蚀这个世界，<br>血染的潮水翻涌，<br>连仅是仪式的纯真都被淹没；<br>好人不再坚信，<br>坏人却满腔狂热。</p><p>当然，某种启示近在眼前；<br>当然，二次降临即将到来。<br>二次降临！话音未落，<br>一个巨大的怪物侵入视线，<br>从沙漠深处走来，<br>它狮身人面，<br>有着与太阳相似的空洞冷漠的眼神，<br>在愤懑的沙漠鸟群的环绕中，<br>慢慢挪动双腿。<br>黑暗再度降临；但我已得知，<br>两千年如岩石般的沉睡<br>被簸荡的摇篮惊扰入噩梦，<br>最终，轮到何等粗暴的野兽，<br>慵懒地走向伯利恒，待其投生？</p></blockquote>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="yeats" scheme="http://freeformsuite.guru/tags/yeats/"/>
+    
+  </entry>
+  
+  <entry>
     <title>n1x :: 性别加速主义：一个黑皮书</title>
     <link href="http://freeformsuite.guru/2021/04/nyx-gender-acceleration-a-blackpaper/"/>
     <id>http://freeformsuite.guru/2021/04/nyx-gender-acceleration-a-blackpaper/</id>
@@ -512,35 +537,6 @@
     
     
     <category term="Distributed" scheme="http://freeformsuite.guru/tags/Distributed/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Sean Tilley :: 一个通向自由网络的快速指南</title>
-    <link href="http://freeformsuite.guru/2020/12/a-quick-guide-to-the-free-network/"/>
-    <id>http://freeformsuite.guru/2020/12/a-quick-guide-to-the-free-network/</id>
-    <published>2020-12-03T13:25:25.000Z</published>
-    <updated>2021-04-22T05:49:14.451Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="https://medium.com/we-distribute/a-quick-guide-to-the-free-network-c069309f334">原文</a>作者: <a href="https://medium.com/@deadsuperhero?source=post*page-----c069309f334--------------------------------">Sean Tilley</a> 译者：晚霞</p><p>很多刚接触<em>联盟</em>网络的人可能会听到一个随意的说法，就是<em>fediverse</em>，可能会好奇这个词是什么意思。简单的解释可能是它是 “<em>federation</em>“和 “<em>universe</em>“的结合，但实际上它比这更复杂一些。让我们深入了解一下这只“野兽”的本质，以及一些历史。</p><p>目前，在<em>联盟的</em>社交通信领域有两个超级网络，它们运行在不同的协议上。它们分别被称为<strong>The Fediverse</strong>，和<strong>The Federation</strong>。虽然这两个超级网络的功能相似，甚至有相似的目的，但它们各自来源于不同的发展历史，并由此产生了不同的协议栈。这一系列重叠的网络在宏观上可以称为<strong>自由网络</strong>(<strong>The Free Network</strong>)。</p><p><img src="https://freeformsuite.files.wordpress.com/2020/12/1ucqhwil3f0av0awmafmdrw.png?w=589"></p><p>8个不同的平台，每个平台都是相互独立开发的。Hubzilla和Friendica可以与这两个网络对话，因为这些项目是与协议无关(protocol-agnostic)的，可以通过插件进行扩展。</p><h2 id="什么是Fediverse？"><a href="#什么是Fediverse？" class="headerlink" title="什么是Fediverse？"></a>什么是<em>Fediverse</em>？</h2><p><a href="https://fediverse.kranglabs.com/">The Fediverse</a>历来是作为一个微型Blog运行的，并使用<em>OStatus</em>协议让服务器之间相互沟通。它总共拉拢了六个不同的平台。<em>GNU Social</em>、<em>postActiv</em>、<em>Pleroma</em>、<em>Mastodon</em>、<em>Friendica</em>和<em>Hubzilla</em>。</p><p><em>Fediverse</em>最初是由少数几台服务器成立的，这些服务器都运行在<em>StatusNet</em>平台上，可以简单地说是类似于<em>Twitter</em>，但不同的是它有一个特殊的群体交流功能。由于其微型Blog的特性，帖子和评论被认为是同一类型的对象(object)，称为<em>Status</em>。</p><p><em>StatusNet</em>最终被转入<a href="https://gnu.io/social/">GNU Social</a>项目中，并在该项目中继续稳步发展。它已经被分叉到<a href="https://www.postactiv.com/">postActiv</a>项目中，该项目旨在清理系统的后台和用户界面。<a href="https://joinmastodon.org/">Mastodon</a>最初是作为一个<em>Rails-based</em>的<em>Ruby</em>的<em>OStatus实现</em>而开发的，而且也可以连接到这这个网络。最后，<a href="https://gitgud.io/lambadalambda/pleroma">Pleroma</a>项目最初是作为<em>GNU Social</em>的替代前端，但现在有了自己用<em>Elixir</em>编写的后端。</p><h2 id="什么是Federation？"><a href="#什么是Federation？" class="headerlink" title="什么是Federation？"></a>什么是<em>Federation</em>？</h2><p><a href="https://the-federation.info/">The Federation</a>是一个由278个不同的连接着的服务器组成的<em>Interop</em>网络，这些服务器使用<em>Diaspora federation</em>协议进行通信。这是一个与<em>OStatus</em>不同的通信标准，允许四种不同的平台相互通信：<em>Diaspora</em>、<em>Friendica</em>、<em>Hubzilla</em>和<em>Socialhome</em>。</p><p><em>Federation</em>最初是在2010年开始的，服务器只运行<a href="https://diaspora.software/">Diaspora</a>。从结构上看，Diaspora的功能更像<em>Facebook</em>：它支持长篇内容而不是短篇，每个帖子都有一个指定的线程供评论。它还支持私密状态(private statuses)和一个收发direct messages的inbox。</p><p>2012年，<a href="http://friendi.ca/">Friendica</a>项目破天荒地对<em>Diaspora</em>通信协议进行了逆向设计，并从头开始编写了一个PHP实现库，<strong>让Friendica用户和Diaspora用户可以互相对话</strong>。这项工作最终被移植到<a href="https://project.hubzilla.org/page/hubzilla/hubzilla-project">Hubzilla</a>上，这是一个具有云存储(Cloud Storage)和id提供(identity provision)功能的内容管理系统。</p><p>2016年初，<em>Diaspora</em>项目的前志愿者贡献者<a href="https://jasonrobinson.me/">Jason Robinson</a>发布了<a href="https://socialhome.network/">Socialhome</a>。由于该平台利用的是<em>Django</em>而非<em>Rails</em>，Jason不得不从头开始编写<a href="https://github.com/jaywink/federation">自己的federation-Python库</a>。目前，<em>Socialhome</em>在自己的发展史上还处于刚开始，最新的版本是0.4.0。</p><h2 id="未来怎样"><a href="#未来怎样" class="headerlink" title="未来怎样?"></a>未来怎样?</h2><p>目前，该领域的几个项目正在努力采用新的补充协议，目的是在彼此之间建立更好的桥梁。拟议的开发可能最终会是这样的：</p><p><img src="https://freeformsuite.files.wordpress.com/2020/12/13pek-fwq7bnovcnxfvdnuq.png?w=603"></p><p><em>Diaspora</em>目前还没有新协议的计划，只是对自己的协议进行了大幅升级。<em>postActiv</em>打算在未来的版本中采用对<em>Diaspora Federation</em>的支持。<em>Mastodon</em>刚刚发布了对<em>ActivityPub</em>的支持，<em>Pleroma</em>，<em>Socialhome</em>和<em>GNU Social</em>也在考虑采用。<em>Nextcloud</em>也明显进入了<em>Federation</em>领域，<em>Hubzilla</em>和<em>Friendica</em>可能都会作为扩展支持<em>ActivityPub</em>协议。</p><p><img src="https://freeformsuite.files.wordpress.com/2020/12/1rea3ego1v1vc90e1t82uga.png?w=380"></p><p>随着时间的推移，这些截然不同的超级网络很可能会折叠成一个包含所有人的联合超级网络，最大限度地提高九个不同系统之间的互操作性，甚至可能更多。虽然这样的情景还很遥远，但我们完全有可能看到这个空间内所有的主要项目都最终能相互连接。</p>]]></content>
-    
-    
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
-    
-    
-    
-    
-    <category term="Fediverse" scheme="http://freeformsuite.guru/tags/Fediverse/"/>
-    
-    <category term="free internet" scheme="http://freeformsuite.guru/tags/free-internet/"/>
-    
-    <category term="mastodon" scheme="http://freeformsuite.guru/tags/mastodon/"/>
     
   </entry>
   

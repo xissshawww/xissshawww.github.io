@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://freeformsuite.guru/2021/04/yeats/</loc>
+    
+    <lastmod>2021-04-30</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://freeformsuite.guru/lib.html</loc>
     
     <lastmod>2021-04-30</lastmod>
@@ -45,13 +52,6 @@
   
   <url>
     <loc>http://freeformsuite.guru/2021/03/denude/</loc>
-    
-    <lastmod>2021-04-22</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://freeformsuite.guru/2020/08/the-shift-from-open-platforms-to-digital-commons/</loc>
     
     <lastmod>2021-04-22</lastmod>
     
@@ -466,20 +466,6 @@
   </url>
   
   <url>
-    <loc>http://freeformsuite.guru/tags/david-bollier/</loc>
-    <lastmod>2021-04-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://freeformsuite.guru/tags/digital-commons/</loc>
-    <lastmod>2021-04-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://freeformsuite.guru/tags/cyber-feminism/</loc>
     <lastmod>2021-04-30</lastmod>
     <changefreq>daily</changefreq>
@@ -488,6 +474,13 @@
   
   <url>
     <loc>http://freeformsuite.guru/tags/gilles-deleuze/</loc>
+    <lastmod>2021-04-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://freeformsuite.guru/tags/yeats/</loc>
     <lastmod>2021-04-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
