@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://freeformsuite.guru/2021/04/deleuze-interview/</loc>
+    
+    <lastmod>2021-04-30</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://freeformsuite.guru/2021/04/la-philosophie-dans-le-boudoir/</loc>
+    
+    <lastmod>2021-04-30</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://freeformsuite.guru/2021/04/yeats/</loc>
     
     <lastmod>2021-04-30</lastmod>
@@ -17,13 +31,6 @@
   
   <url>
     <loc>http://freeformsuite.guru/blogroll.html</loc>
-    
-    <lastmod>2021-04-30</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://freeformsuite.guru/2021/04/deleuze-interview/</loc>
     
     <lastmod>2021-04-30</lastmod>
     
@@ -481,6 +488,13 @@
   
   <url>
     <loc>http://freeformsuite.guru/tags/yeats/</loc>
+    <lastmod>2021-04-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://freeformsuite.guru/tags/sade/</loc>
     <lastmod>2021-04-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
